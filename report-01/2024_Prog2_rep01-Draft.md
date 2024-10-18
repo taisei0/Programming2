@@ -649,13 +649,13 @@ stack.push(4)
 stack.push(5)
 stack.push([1,2,3,4,5])
 
-print(satck.pop())
-print(satck.pop())
-print(satck.pop())
-print(satck.pop())
-print(satck.pop())
-print(satck.pop())
-print(satck.pop())
+print(stck.pop())
+print(stck.pop())
+print(stck.pop())
+print(stck.pop())
+print(stck.pop())
+print(stck.pop())
+print(stck.pop())
 
 ```
 
